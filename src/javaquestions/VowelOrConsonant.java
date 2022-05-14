@@ -1,6 +1,6 @@
 package javaquestions;
 
-public class Example8 {
+public class VowelOrConsonant {
 
 	public static void main(String[] args) {
 		// Java Program to Check Whether an Alphabet is Vowel or Consonant

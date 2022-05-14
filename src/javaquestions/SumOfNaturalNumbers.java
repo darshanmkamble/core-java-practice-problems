@@ -1,6 +1,6 @@
 package javaquestions;
 
-public class Example13 {
+public class SumOfNaturalNumbers {
 
 	public static void main(String[] args) {
 		// Java Program to Calculate the Sum of Natural Numbers

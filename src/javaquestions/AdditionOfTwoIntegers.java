@@ -1,6 +1,6 @@
 package javaquestions;
 
-public class Example2 {
+public class AdditionOfTwoIntegers {
 
 	public static void main(String[] args) {
 		// Java Program to Add Two Integers

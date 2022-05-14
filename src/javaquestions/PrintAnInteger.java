@@ -2,7 +2,7 @@ package javaquestions;
 
 import java.util.Scanner;
 
-public class Example1 {
+public class PrintAnInteger {
 
 	public static void main(String[] args) {
 		// Java Program to Print an Integer (Entered by the User)

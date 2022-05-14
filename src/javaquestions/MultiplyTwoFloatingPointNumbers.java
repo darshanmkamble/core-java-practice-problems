@@ -1,6 +1,6 @@
 package javaquestions;
 
-public class Example3 {
+public class MultiplyTwoFloatingPointNumbers {
 
 	public static void main(String[] args) {
 		// Java Program to Multiply two Floating Point Numbers

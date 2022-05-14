@@ -2,7 +2,7 @@ package javaquestions;
 
 import java.util.Scanner;
 
-public class Example19 {
+public class ReverseANumber {
 
 	public static void main(String[] args) {
 		// Java Program to Reverse a Number

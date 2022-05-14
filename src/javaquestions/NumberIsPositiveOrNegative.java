@@ -2,7 +2,7 @@ package javaquestions;
 
 import java.util.Scanner;
 
-public class Example11 {
+public class NumberIsPositiveOrNegative {
 
 	public static void main(String[] args) {
 		// Java Program to Check Whether a Number is Positive or Negative

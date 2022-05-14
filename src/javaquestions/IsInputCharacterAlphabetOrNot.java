@@ -2,7 +2,7 @@ package javaquestions;
 
 import java.util.Scanner;
 
-public class Example12 {
+public class IsInputCharacterAlphabetOrNot {
 
 	public static void main(String[] args) {
 		// Java Program to Check Whether a Character is Alphabet or Not

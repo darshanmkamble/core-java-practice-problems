@@ -1,6 +1,6 @@
 package javaquestions;
 
-public class Example4 {
+public class FindASCIIValueOfACharacter {
 
 	public static void main(String[] args) {
 		// Java Program to Find ASCII Value of a character

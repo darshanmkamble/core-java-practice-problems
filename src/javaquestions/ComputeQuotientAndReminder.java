@@ -1,6 +1,6 @@
 package javaquestions;
 
-public class Example5 {
+public class ComputeQuotientAndReminder {
 
 	public static void main(String[] args) {
 		// Java Program to Compute Quotient and Remainder

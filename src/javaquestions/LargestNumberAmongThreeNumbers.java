@@ -1,6 +1,6 @@
 package javaquestions;
 
-public class Example9 {
+public class LargestNumberAmongThreeNumbers {
 
 	public static void main(String[] args) {
 		// Java Program to Find the Largest Among Three Numbers

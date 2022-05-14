@@ -2,7 +2,7 @@ package javaquestions;
 
 import java.util.Scanner;
 
-public class Example18 {
+public class CountNoOfDigitsInAnInteger {
 
 	public static void main(String[] args) {
 		// Java Program to Count Number of Digits in an Integer

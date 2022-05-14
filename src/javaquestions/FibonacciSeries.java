@@ -2,7 +2,7 @@ package javaquestions;
 
 import java.util.Scanner;
 
-public class Example16 {
+public class FibonacciSeries {
 
 	public static void main(String[] args) {
 		// Java Program to Display Fibonacci Series

@@ -2,7 +2,7 @@ package javaquestions;
 
 import java.util.Scanner;
 
-public class Example10 {
+public class IdentifyLeapYear {
 
 	public static void main(String[] args) {
 		// Java Program to Check Leap Year

@@ -2,7 +2,7 @@ package javaquestions;
 
 import java.util.Scanner;
 
-public class Example14 {
+public class Factorial {
 
 	public static void main(String[] args) {
 		// Java Program to Find Factorial of a Number

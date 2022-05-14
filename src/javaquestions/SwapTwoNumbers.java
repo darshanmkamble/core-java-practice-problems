@@ -1,6 +1,6 @@
 package javaquestions;
 
-public class Example6 {
+public class SwapTwoNumbers {
 
 	public static void main(String[] args) {
 		// Java Program to Swap Two Numbers
