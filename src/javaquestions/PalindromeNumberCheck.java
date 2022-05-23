@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class PalindromeNumberCheck {
 
 	public static void main(String[] args) {
+		// Java Program to check if a number is Palindrome or Not
 
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Enter a number: ");
