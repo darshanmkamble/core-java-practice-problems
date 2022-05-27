@@ -28,3 +28,7 @@ This is java project where I have practiced frequently asked core java programmi
 26. Display Armstrong numbers between two intervals
 27. Java Program to Check Armstrong Number
 28. Java Program to Add Two Integers
+29. Java Program to Convert Binary Number to Decimal Number
+30. Java Program to Convert Decimal Number to Binary Number
+31. Java Program To Convert Decimal Number To Octal Number
+32. Java Program To Convert Octal Number to Decimal Number
